@@ -4,5 +4,5 @@ yiiframework.com.ua
 
 Цей репозиторій використовується для пропозицій та зауважень до [сайту спільноти](http://yiiframework.com.ua)
 
-[Тут](https://github.com/yiiframework-com-ua/yiiframework.com.ua/issues)
+[Тут](https://github.com/yiiframework-ua/yiiframework.com.ua/issues)
 ===
