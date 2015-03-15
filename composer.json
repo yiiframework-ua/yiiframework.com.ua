@@ -1,0 +1,14 @@
+{
+    "name": "yiiframework-ua/yiiframework.com.ua",
+    "type": "docs",
+    "support": {
+        "issues": "https://github.com/yiiframework-ua/yiiframework.com.ua/issues",
+        "source": "https://github.com/yiiframework-ua/yiiframework.com.ua"
+    },
+    "authors": [
+        {
+            "name": "Alexandr Bordun",
+            "email": "bordun.alexandr@gmail.com"
+        }
+    ]
+}
